@@ -39,7 +39,7 @@
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
 		
-		<!--start preloader area-->
+		<!--start preloader area
         <div class="loader-container circle-pulse-multiple">
 			<div class="loader">
 				<div id="loading-center-absolute">
@@ -66,116 +66,24 @@
 					<div class="col-md-8 hidden-sm hidden-xs">
 						<div class="mainmenu">
 							<ul id="navigation">
-								<li class="active"><a href="index.html">Home <i class="fa fa-angle-down"></i></a>
-									<ul class="submenu">
-										<li class="active"><a href="index.html">Home One</a></li>
-										<li><a href="index2.html">Home Two</a></li>
-										<li><a href="index3.html">Home Three</a></li>
-									</ul>
+								<li class="active"><a href="index.html">Home </a>
+									
 								</li>
-								<li><a href="service.html">Service <i class="fa fa-angle-down"></i></a>
-									<ul class="submenu">
-										<li><a href="service.html">service One</a></li>
-										<li><a href="service2.html">service Two</a></li>
-										<li><a href="service3.html">service Single</a></li>
-									</ul>
+								<li><a href="service.html">Service </a>
+									
 								</li>
-								<li><a href="worker.html">STYLERS <i class="fa fa-angle-down"></i></a>
-									<ul class="submenu">
-										<li><a href="worker.html">Stylers One</a></li>
-										<li><a href="worker2.html">Stylers Two</a></li>
-										<li><a href="worker3.html">Stylers Three <span class="pull-right">+</span></a>
-											<ul class="submenu">
-												<li><a href="#">Sabmenu One</a></li>
-												<li><a href="#">Sabmenu Two</a></li>
-												<li><a href="#">Sabmenu Three <span class="pull-right">+</span></a>
-                                                    <ul class="submenu">
-                                                        <li><a href="#">Sabmenu One</a></li>
-                                                        <li><a href="#">Sabmenu Two</a></li>
-                                                        <li><a href="#">Sabmenu Three</a></li>
-                                                        <li><a href="#">Sabmenu Four</a></li>
-                                                        <li><a href="#">Sabmenu Five</a></li>
-                                                    </ul>
-                                                </li>
-												<li><a href="#">Sabmenu Four</a></li>
-												<li><a href="#">Sabmenu Five</a></li>
-											</ul>
-										</li>
-										<li><a href="worker-detsils.html">Stylers Details</a></li>
-									</ul>
+								<li><a href="worker.html">STYLERS </a>
+									
 								</li>
-								<li><a href="shop.html">Shop <i class="fa fa-angle-down"></i></a>
-                                    <ul class="submenu">
-										<li><a href="shop.html">Shop Page</a></li>
-										<li><a href="shop-details.html">Shop Single</a></li>
-										<li><a href="cart.html">Shopping Cart</a></li>
-										<li><a href="wishlist.html">Wishlist</a></li>
-										<li><a href="checkout.html">checkout</a></li>
-                                    </ul>
+								<li><a href="shop.html">Shop </a>
+                                   
                                 </li>
-								<li><a href="blog.html">Blog <i class="fa fa-angle-down"></i></a>
-									<ul class="submenu right">
-										<li><a href="blog.html">Blog Grid  <span class="pull-right">+</span></a>
-											<ul class="submenu">
-												<li><a href="blog-grid-left-sidebar.html">Blog Left sidebar</a></li>
-												<li><a href="blog-grid-right-sidebar.html">Blog right sidebar</a></li>
-											</ul>
+								<li><a href="blog.html">Blog </a>
+									
 										</li>
-										<li><a href="blog-list.html">Blog list  <span class="pull-right">+</span></a>
-											<ul class="submenu">
-												<li><a href="blog-list-left-sidebar.html">Blog Left sidebar</a></li>
-												<li><a href="blog-list-right-sidebar.html">Blog right sidebar</a></li>
-											</ul>
-										</li>
-										<li><a href="blog-details.html">Blog Details <span class="pull-right">+</span></a>
-                                            <ul class="submenu">
-												<li><a href="blog-details-left-sidebar.html">Blog Detsils Left sidebar</a></li>
-												<li><a href="blog-details-right-sidebar.html">Blog Detsils Right sidebar</a></li>
-											</ul>
-                                        </li>
-										<li><a href="blog-post.html">Blog Post <span class="pull-right">+</span></a>
-                                            <ul class="submenu">
-												<li><a href="blog-post-left-sidebar.html">Blog Post Left sidebar</a></li>
-												<li><a href="blog-post-right-sidebar.html">Blog Post Right sidebar</a></li>
-											</ul>
-                                        </li>
-									</ul>
-								</li>
+										
 								<li><a href="contact.html">Contact</a></li>
-								<li><a href="#">Pages <i class="fa fa-angle-down"></i></a>
-									<ul class="megamenu">
-										<li>
-                                            <a class="mega-title" href="#">MegaMenu Title</a>
-											<ul>
-												<li><a href="about.html">About One</a></li>
-												<li><a href="about2.html">About Two</a></li>
-												<li><a href="service.html">service One</a></li>
-                                                <li><a href="service2.html">service Two</a></li>
-                                                <li><a href="service3.html">service Single</a></li>
-											</ul>
-										</li>
-										<li>
-                                            <a class="mega-title"  href="#">MegaMenu Title</a>
-											<ul>
-												<li><a href="shop.html">Shop Page</a></li>
-												<li><a href="shop-details.html">Shop Single</a></li>
-												<li><a href="wishlist.html">Wishlist</a></li>
-												<li><a href="cart.html">Shopping Cart</a></li>
-                                                <li><a href="checkout.html">checkout</a></li>
-											</ul>
-										</li>
-										<li>    
-                                            <a class="mega-title"  href="#">MegaMenu Title</a>
-											<ul>
-												<li><a href="portfolio.html">Portfolio</a></li>
-												<li><a href="portfolio2.html">Portfolio Two</a></li>
-												<li><a href="portfolio3.html">Portfolio Three</a></li>
-												<li><a href="portfolio4.html">Portfolio Mesonry</a></li>
-												<li><a href="portfolio5.html">Portfolio Mesonry Two</a></li>
-											</ul>
-										</li>
-									</ul>
-								</li>
+								
 							</ul>
 						</div>
 					</div>
