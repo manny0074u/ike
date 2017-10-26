@@ -69,7 +69,7 @@
 								<li class="active"><a href="index.html">Home </a>
 									
 								</li>
-								<li><a href="service.html">Service </a>
+								<li><a href="about.php">About </a>
 									
 								</li>
 								<li><a href="worker.html">STYLERS </a>
