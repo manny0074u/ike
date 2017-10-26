@@ -276,7 +276,7 @@
 					<div class="col-md-6 col-xs-12">
 						<div class="about-video black-opacity">
 							<img src="assets/images/about.jpg" alt="" />
-							<a href="https://www.youtube.com/watch?v=TbjIaWGu0-0" class="video-popup">
+							<a href="https://www.youtube.com/watch?v=IPfJnp1guPc" class="video-popup">
 								<span class="flaticon-play-button"></span>
 							</a>
 						</div>
