@@ -72,16 +72,20 @@
 								<li><a href="about.php">About </a>
 									
 								</li>
-								<li><a href="worker.html">STYLERS </a>
+								<li><a href="services.php">Services </a>
 									
 								</li>
-								<li><a href="shop.html">Shop </a>
+								<li><a href="products.html">Products </a>
                                    
                                 </li>
-								<li><a href="blog.html">Blog </a>
-									
-										</li>
-										
+								<li><a href="#">Gallery </a>
+
+								<ul class="submenu">
+											<li><a href="pictures.php">Pictures</a></li>
+											<li><a href="videos.php">Videos</a></li>
+											
+										</ul>	
+										</li>	
 								<li><a href="contact.html">Contact</a></li>
 								
 							</ul>
